@@ -1,4 +1,3 @@
-```lua
 spawn(function()
     game:GetService("Players").LocalPlayer.PlayerGui.DFMoveMobile.Move["Devil Fruit Shadow"].Z.Activated:Connect(function()
         if _G.ShadowOP then
@@ -44,4 +43,3 @@ spawn(function()
         end)
     end)
 end)
-```
